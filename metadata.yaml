@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/485
     wikipedia: http://en.wikipedia.org/wiki/Charles_Darwin
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/32201#Geologische-Beobachtungen--ber-die-Vulcanischen-Inseln--13-Mit-kurzen-Bemerkungen--ber-die-Ge_
 gutenberg_bookshelf: DE Sachbuch
 gutenberg_issued: '2010-05-01'
 gutenberg_type: Text
