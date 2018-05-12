@@ -1,0 +1,32 @@
+_repo: Geologische-Beobachtungen--ber-die-Vulcanischen-Inseln--13-Mit-kurzen-Bemerkungen--ber-die-Ge__32201
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Darwin, Charles
+    alias: Darwin, Charles Robert
+    birthdate: 1809
+    deathdate: 1882
+    gutenberg_agent_id: '485'
+    url: http://www.gutenberg.org/2009/agents/485
+    wikipedia: http://en.wikipedia.org/wiki/Charles_Darwin
+description: ''
+gutenberg_bookshelf: DE Sachbuch
+gutenberg_issued: '2010-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32201'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Volcanoes -- Southern Hemisphere'
+- !lcsh 'Geology -- South America'
+- !lcsh 'Beagle Expedition (1831-1836)'
+- !lcc 'QE'
+title: "Geologische Beobachtungen über die Vulcanischen Inseln\r\nMit kurzen Bemerkungen\
+  \ über die Geologie von Australien und dem Cap der guten Hoffnung"
+url: http://www.gutenberg.org/ebooks/32201
